@@ -1,6 +1,6 @@
 Name: Mohammed Hocine Kazi Tani 
 
-What I added: 
+Progam Instructions:
 
 1.) I changed the flighttimes array list to a tree map to be able to add the duration of the destination conveniently when reading from the flight.txt file. 
 
